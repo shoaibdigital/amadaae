@@ -1,0 +1,55 @@
+{  
+    "data":[
+        {
+           "title": "About Us",
+           "desc": "The AMADA Vocational Center is committed to work with customers and their employees in the Sheet Metal Industry with a view of imparting knowledge to the operators related to Safety, Machine Operation and Maintenance to make them completely competent.",
+           "image":"https://i.postimg.cc/7Z81whB2/vocational-m.jpg",
+           "is":false
+        },
+        {
+            "title": "Objective",
+            "desc":"To overcome the shortage of skilled workers, we want to work together with our customers and their employees and give them the ability to constantly live up to the ever-greater technical requirements in the field of Sheet Metal Industry.",
+            "image":"https://i.postimg.cc/tJ65NxS9/objective.jpg",
+            "is":false
+         },
+         {
+            "title": "Values",
+             "desc": {
+                "info":[
+                {
+                    "in":"Efficient & Productive use of Machine & Software."
+                },
+                {
+                    "in":"Dedicated Facility & Faculty."
+                },
+                {
+                    "in":"Interactive Off-line & On-line training"
+                },
+                {
+                    "in":"Focused on Process Know-How"
+                },
+                {
+                    "in":"Networking among customers."
+                },
+                {
+                    "in":"Exposure to New tools and techniques."
+                },
+                {
+                    "in":"Performance oriented certification."
+                },
+                {
+                    "in":"Post training support"
+                }  
+            ]
+            } ,
+            "image":"https://i.postimg.cc/vZhvhMzx/value.jpg",
+            "is":true
+         }
+
+    ],
+
+    "banner":{
+        "image":"https://i.postimg.cc/YC4R7K2V/vc-banner.jpg"   
+    }
+}
+
